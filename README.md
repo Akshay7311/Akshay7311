@@ -1,12 +1,16 @@
-<h1 align="left">A Full Stack Web Developer</h1>
+<h3 align="center">A Full Stack Web Developer</h3>
 
 - 🔭 I’m currently working on **Online Book Store and Online Shopping Store**
 
 - 🌱 I’m currently learning **Java**
 
+- 📫 🌍 **I'm based in Ahemdabad , Gujrat**
+
 - ✉️ You can contact me at **Akshay7311a@gmail.com**
 
-<h3 align="left">Socials :</h3>
+- ⚡ **And a BCA Students too.**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/akshay7311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshay7311" height="30" width="40" /></a>
 <a href="https://instagram.com/akshay47_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshay47_" height="30" width="40" /></a>
