@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Online Book Store and Online Shopping Store**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java** & **Python**
 
 - 📫 🌍 **I'm based in Ahemdabad , Gujrat**
 
