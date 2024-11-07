@@ -8,7 +8,7 @@
 
 - ✉️ You can contact me at **Akshay7311a@gmail.com**
 
-- ⚡ **And a BCA Students too.**
+- ⚡ **And a MCA Student .**
 
 <h3 align="left">Socials :</h3>
 <p align="left">
