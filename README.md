@@ -8,7 +8,7 @@
 
 - ✉️ You can contact me at **Akshay7311a@gmail.com**
 
-- ⚡ ** Degree in BCA And Currently a MCA Student .**
+- ⚡ **Degree in BCA And Currently a MCA Student .**
 
 <h3 align="left">Socials :</h3>
 <p align="left">
