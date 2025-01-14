@@ -1,14 +1,14 @@
 <h1 align="left">A Full Stack Web Developer</h1>
 
-- 🔭 I’m currently working on **Online Book Store and Online Shopping Store**
+- 🔭 I’m currently working on **Network Connectivity Tool - NetManager**
 
-- 🌱 I’m currently learning **Java** & **Python**
+- 🌱 I’m currently learning  **Python**
 
 - 📫 🌍 **I'm based in Ahemdabad , Gujrat**
 
 - ✉️ You can contact me at **Akshay7311a@gmail.com**
 
-- ⚡ **And a MCA Student .**
+- ⚡ ** Degree in BCA And Currently a MCA Student .**
 
 <h3 align="left">Socials :</h3>
 <p align="left">
