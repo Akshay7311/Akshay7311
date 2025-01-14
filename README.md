@@ -1,4 +1,4 @@
-<h1 align="left">A Full Stack Web Developer</h1>
+<h1 align="left">Student At LDRP-ITR | Python | Cybersecurity</h1>
 
 - 🔭 I’m currently working on **Network Connectivity Tool - NetManager**
 
