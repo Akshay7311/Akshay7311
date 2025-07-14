@@ -1,6 +1,6 @@
 <h1 align="left">Student At LDRP-ITR | Python | Cybersecurity</h1>
 
-- 🔭 I’m currently working on **Network Connectivity Tool - NetManager**
+- 🔭 I’m currently working on **Network Connectivity Tool - NetManager 3.0**
 
 - 🌱 I’m currently learning  **Python**
 
