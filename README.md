@@ -68,8 +68,6 @@ I am an **MCA student passionate about Cybersecurity and Ethical Hacking**, lear
   - Browser-based tool to monitor LAN devices and enable real-time group chat.
   - Features: Active IP detection, MAC address logging, uptime tracking, open/RDP port scanning, and integrated LAN group messaging.
   - Built with HTML, JS, and Python.
-  - [Check on GitHub - NetManager](#)
-
 ---
 
 <!--
