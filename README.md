@@ -27,10 +27,10 @@ I am an **MCA student passionate about Cybersecurity and Ethical Hacking**, lear
 
 ### 🏆 Certifications
 
-- Python (Basic) – HackerRank, 2025
-- SQL (Advanced) – HackerRank, 2025
-- Introduction to Cybersecurity – Cisco, 2025
-- OpenAI x NxtWave GenAI Buildathon, 2025
+- **Python (Basic)** – HackerRank, 2025
+- **SQL (Advanced)** – HackerRank, 2025
+- **Introduction to Cybersecurity** – Cisco, 2025
+- **OpenAI x NxtWave GenAI Buildathon** , 2025
 
 ---
 
@@ -39,5 +39,5 @@ I am an **MCA student passionate about Cybersecurity and Ethical Hacking**, lear
 - **NetManager (2024-26):**
   - Browser-based tool to monitor LAN devices and enable real-time group chat.
   - Features: Active IP detection, MAC address logging, uptime tracking, open/RDP port scanning, and integrated LAN group messaging.
-  - Built with HTML, JS, and Python.
+  - Built with HTML, JS, and Python,Nmap.
 ---
