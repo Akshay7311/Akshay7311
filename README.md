@@ -6,7 +6,7 @@
 - ✉️ You can contact me at **Akshay7311a@gmail.com**
 - 🎓 **Degree in BCA and currently an MCA student**
 
----
+--
 
 
 ### 🚀 About Me
@@ -15,16 +15,16 @@ I am an **MCA student passionate about Cybersecurity and Ethical Hacking**, lear
 
 - 🖥️ See my portfolio: [akshayjadav.netlify.app](http://akshayjadav.netlify.app/)
 
----
+--
 
 ### 🛠️ Skills
 
-- **Web Development:** HTML, CSS, JavaScript, PHP
-- **Programming:** Python, Java, R
-- **Databases:** SQL, Database Administration
-- **Tools & Platforms:** Git, GitHub, Figma, Canva, Power BI, Linux
+-  **Programming Languages** : Python, JavaScript, PHP, Java, R
+-  **Databases** : SQL, DBA
+-  **Tools & Platforms** : Linux, GitHub, Nmap, Wireshark, Burp Suite, Figma
+-  **Professional Trait** : Punctual, Self-Learner
 
----
+--
 
 ### 🏆 Certifications
 
@@ -33,7 +33,7 @@ I am an **MCA student passionate about Cybersecurity and Ethical Hacking**, lear
 - Introduction to Cybersecurity – Cisco, 2025
 - OpenAI x NxtWave GenAI Buildathon, 2025
 
----
+--
 
 ### 🛠️ Projects
 
@@ -41,8 +41,4 @@ I am an **MCA student passionate about Cybersecurity and Ethical Hacking**, lear
   - Browser-based tool to monitor LAN devices and enable real-time group chat.
   - Features: Active IP detection, MAC address logging, uptime tracking, open/RDP port scanning, and integrated LAN group messaging.
   - Built with HTML, JS, and Python.
----
-
-<!--
-Feel free to update this file as you enhance your profile and portfolio!
--->
+--
