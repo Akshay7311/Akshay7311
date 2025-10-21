@@ -1,17 +1,11 @@
 <h1 align="left">Student At LDRP-ITR | CTF Player | Cybersecurity</h1>
 
-- 🌱 I’m currently Focusing on  **Penetration Tester**
-- 📍 **Based in Ahmedabad, Gujarat**
-- ✉️ You can contact me at **Akshay7311a@gmail.com**
-- 🎓 **Degree in BCA and currently an MCA student**
-
----
-
-
 ### 🚀 About Me
 
 I am an **MCA student passionate about Cybersecurity and Ethical Hacking**, learning to secure networks, systems, and data against modern threats. I focus on gaining real-world skills in penetration testing, network defense, and ethical hacking practices.
 
+- 🌱 I’m currently Focusing on  **Penetration Tester**
+- 🎓 **Degree in BCA and currently an MCA student**
 - 🖥️ See my portfolio: [akshayjadav.netlify.app](http://akshayjadav.netlify.app/)
 
 ---
