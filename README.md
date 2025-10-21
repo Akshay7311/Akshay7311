@@ -1,7 +1,6 @@
-<h1 align="left">Student At LDRP-ITR | Python | Cybersecurity</h1>
+<h1 align="left">Student At LDRP-ITR | CTF Player | Cybersecurity</h1>
 
-- 🔭 I’m currently working on **Network Connectivity Tool - NetManager 3.0**
-- 🌱 I’m currently learning **Penetration Tester**
+- 🌱 I’m currently Focusing on  **Penetration Tester**
 - 📍 **Based in Ahmedabad, Gujarat**
 - ✉️ You can contact me at **Akshay7311a@gmail.com**
 - 🎓 **Degree in BCA and currently an MCA student**
