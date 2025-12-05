@@ -1,4 +1,4 @@
-<h1 align="left">Student At LDRP-ITR | CTF Player | Cybersecurity</h1>
+<h1 align="left">Ethical Hacker | Bug Hunter | CTF Player</h1>
 
 ### 🚀 About Me
 
