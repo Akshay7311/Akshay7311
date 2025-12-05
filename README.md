@@ -28,10 +28,3 @@
 -  **HackerRank** — SQL (Advanced)
 
 ---
-
-### 🛠️ Projects
-
-- **NetManager (2024-26):**
-    - Built a browser-based LAN monitoring tool to detect active IPs, MAC addresses, uptime, open/RDP ports, and support LAN group chat.
-    - Implemented automated network scanning using Nmap and developed the UI with HTML, CSS, JavaScript, Python, Flask, and AppWrite.
----
