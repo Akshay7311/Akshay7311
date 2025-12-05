@@ -2,36 +2,36 @@
 
 ### 🚀 About Me
 
-I am an **MCA student passionate about Cybersecurity and Ethical Hacking**, learning to secure networks, systems, and data against modern threats. I focus on gaining real-world skills in penetration testing, network defense, and ethical hacking practices.
-
-- 🌱 I’m currently Focusing on  **Penetration Tester**
-- 🎓 **Degree in BCA and currently an MCA student**
-- 🖥️ See my portfolio: [akshayjadav.netlify.app](http://akshayjadav.netlify.app/)
+- BCA graduate currently pursuing MCA with a strong focus on Cybersecurity.
+- Hands-on skills in network security, vulnerability scanning, and basic penetration testing.
+- Skilled in using essential cybersecurity tools and continuously strengthening core security fundamentals.
 
 ---
 
 ### 🛠️ Skills
 
--  **Programming Languages** : Python, JavaScript, PHP, Java, R
--  **Databases** : SQL, DBA
--  **Tools & Platforms** : Linux, GitHub, Nmap, Wireshark, Burp Suite, Figma
--  **Professional Trait** : Punctual, Self-Learner
+-  **Cybersecurity Tools:** Nmap, Burp Suite, Wireshark, Gobuster, Nikto, Hydra, OSINT tools
+-  **Security Skills:** Vulnerability Scanning, Basic Pentesting, Reconnaissance, Web Security
+-  **Programming:** Python, Bash, JavaScript, PHP
+-  **Platforms:** Linux (Ubuntu/Kali), Windows, Git & GitHub
+-  **Databases:** Basic DBA Knowledge
+-  **Professional Trait:** Punctual, Self-Learner
 
 ---
 
 ### 🏆 Certifications
 
-- **Python (Basic)** – HackerRank, 2025
-- **SQL (Advanced)** – HackerRank, 2025
-- **Introduction to Cybersecurity** – Cisco, 2025
-- **OpenAI x NxtWave GenAI Buildathon** , 2025
+-  **Cisco** — Introduction to CyberSecurity
+-  **Government of India** — Cyber Security Program (2025)
+-  **OpenAI** — NxtWave GenAI Buildathon Participant (2025)
+-  **HackerRank** — Python (Basic)
+-  **HackerRank** — SQL (Advanced)
 
 ---
 
 ### 🛠️ Projects
 
 - **NetManager (2024-26):**
-  - Browser-based tool to monitor LAN devices and enable real-time group chat.
-  - Features: Active IP detection, MAC address logging, uptime tracking, open/RDP port scanning, and integrated LAN group messaging.
-  - Built with HTML, JS, and Python,Nmap.
+    - Built a browser-based LAN monitoring tool to detect active IPs, MAC addresses, uptime, open/RDP ports, and support LAN group chat.
+    - Implemented automated network scanning using Nmap and developed the UI with HTML, CSS, JavaScript, Python, Flask, and AppWrite.
 ---
