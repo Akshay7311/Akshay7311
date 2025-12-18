@@ -12,9 +12,8 @@
 
 -  **Cybersecurity Tools:** Nmap, Burp Suite, Wireshark, Gobuster, Nikto, Hydra, OSINT tools
 -  **Security Skills:** Vulnerability Scanning, Basic Pentesting, Reconnaissance, Web Security
--  **Programming:** Python, Bash, JavaScript, PHP
+-  **Programming:** Python, Bash, JavaScript, PHP, SQL
 -  **Platforms:** Linux (Ubuntu/Kali), Windows, Git & GitHub
--  **Databases:** Basic DBA Knowledge
 -  **Professional Trait:** Punctual, Self-Learner
 
 ---
