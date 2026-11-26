@@ -91,3 +91,11 @@
 <h3 align="center">
   ⚡ Stay Curious. Keep Hacking. Stay Ethical. ⚡
 </h3>
+
+<p align="center">
+  <code>[ ACCESS GRANTED ]</code>
+  <br/>
+  <b>Explore • Analyze • Exploit • Secure</b>
+  <br/>
+  <i>Think beyond the surface.</i>
+</p>
