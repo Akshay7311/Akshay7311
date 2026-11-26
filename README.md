@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-00ff9c?style=for-the-badge" />
-  <img src="https://img.shields.io/badge-MINDSET-ALWAYS%20LEARNING-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-00ff9c?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/MINDSET-ALWAYS_LEARNING-00ff9c?style=for-the-badge&labelColor=0D1117" />
 </p>
 
 ---
